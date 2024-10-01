@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Harsh Vardhan - First-year Medical Student">
+    <title>Harsh Vardhan - Medical Student</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 1.5rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        section {
+            padding: 2rem;
+            margin: 1rem auto;
+            width: 80%;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        section h2 {
+            font-size: 2rem;
+            color: #333;
+            border-bottom: 2px solid #0073e6;
+            padding-bottom: 0.5rem;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #0073e6;
+            color: white;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Harsh Vardhan</h1>
+    <p>First-year Medical Student</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! I am Harsh Vardhan, a first-year medical student with a passion for learning and self-improvement. My academic journey in medicine is just beginning, and I'm excited to dive deeper into this field. Along with my studies, I believe in maintaining a balanced life by exploring different hobbies and staying fit.</p>
+</section>
+
+<section>
+    <h2>Hobbies & Interests</h2>
+    <p>When I'm not studying, you'll often find me reading books, watching movies or series (including anime), listening to music (both English and Hindi), or hitting the gym to stay active. These hobbies keep me grounded and offer a healthy break from my medical studies.</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:harsh6205750074@gmail.com">harsh6205750074@gmail.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/hvmishraa" target="_blank">@hvmishraa</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Harsh Vardhan</p>
+</footer>
+
+</body>
+</html>
